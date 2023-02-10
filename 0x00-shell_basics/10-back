@@ -1,5 +1,2 @@
 #!/bin/bash
-current_dir=$(pwd)
 cd -
-echo "Changed working directory to $(pwd)"
-cd "$current_dir"
